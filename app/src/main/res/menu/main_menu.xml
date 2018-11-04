@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.droidcafe.MainActivity">
+    <item
+        android:id="@+id/action_flm"
+        android:icon="@drawable/ic_input"
+        android:orderInCategory="20"
+        android:title="@string/action_flm"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rpl"
+        android:icon="@drawable/ic_view_list"
+        android:orderInCategory="30"
+        android:title="@string/action_rpl"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_maps"
+        android:icon="@drawable/ic_view_list"
+        android:orderInCategory="30"
+        android:title="@string/action_maps"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:orderInCategory="40"
+        android:title="@string/action_refresh"
+        app:showAsAction="always" />
+</menu>

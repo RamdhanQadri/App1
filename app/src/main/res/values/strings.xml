@@ -1,0 +1,236 @@
+<resources>
+    <string name="app_id">551IDAPP</string>
+    <string name="app_user_label">SSI AMF</string>
+    <string name="app_version_name">SSI</string>
+    <string name="app_name">SSI</string>
+    <string name="action_flm">FLM</string>
+    <string name="action_rpl">RPL</string>
+    <string name="action_maps">MAPS</string>
+    <string name="action_login">LOGIN</string>
+    <string name="action_refresh">REFRESH</string>
+    <string name="legal">Legal Notices</string>
+    <string name="no_maps">Google Maps V2 not available!</string>
+
+    <string-array name="labels_array_sentra">
+        <item>Pilih</item>
+        <item>SSI AMBON</item>
+        <item>SSI BALIKPAPAN</item>
+        <item>SSI BANDA ACEH</item>
+        <item>SSI BANJARBARU</item>
+        <item>SSI BANJARMASIN</item>
+        <item>SSI BANYUWANGI</item>
+        <item>SSI BATAM</item>
+        <item>SSI BEKASI</item>
+        <item>SSI BOGOR</item>
+        <item>SSI BOJONEGORO</item>
+        <item>SSI BSD</item>
+        <item>SSI CIBINONG</item>
+        <item>SSI CIKARANG</item>
+        <item>SSI DENPASAR</item>
+        <item>SSI DEPOK</item>
+        <item>SSI DUKUH BAWAH</item>
+        <item>SSI DUMAI</item>
+        <item>SSI DURI</item>
+        <item>SSI FATMAWATI</item>
+        <item>SSI GORONTALO</item>
+        <item>SSI HARMONI 1</item>
+        <item>SSI HARMONI 2</item>
+        <item>SSI JATIWARNA</item>
+        <item>SSI KARAWANG</item>
+        <item>SSI KENDARI</item>
+        <item>SSI KUPANG</item>
+        <item>SSI LANGSA</item>
+        <item>SSI LHOKSEUMAWE</item>
+        <item>SSI LUWUK</item>
+        <item>SSI MANADO</item>
+        <item>SSI MATARAM</item>
+        <item>SSI MEDAN</item>
+        <item>SSI MEULABOH</item>
+        <item>SSI PADANG</item>
+        <item>SSI PALANGKARAYA</item>
+        <item>SSI PALU</item>
+        <item>SSI PANGKALAN KERINCI</item>
+        <item>SSI PASURUAN</item>
+        <item>SSI PEKANBARU</item>
+        <item>SSI PONDOK BAMBU</item>
+        <item>SSI RENGAT</item>
+        <item>SSI SAMARINDA</item>
+        <item>SSI SAMPIT</item>
+        <item>SSI SELONG</item>
+        <item>SSI SEMARANG</item>
+        <item>SSI SERANG</item>
+        <item>SSI SINGARAJA</item>
+        <item>SSI TANGERANG 1</item>
+        <item>SSI TANGERANG 2</item>
+        <item>SSI TERNATE</item>
+        <item>SSI TJ. BALAI KARIMUN</item>
+        <item>SSI TJ. PINANG</item>
+        <item>SSI UJUNG BATU</item>
+    </string-array>
+
+    <string-array name="labels_array_wilayah">
+        <item>Pilih</item>
+        <item>Banda Aceh</item>
+        <item>Banjarmasin</item>
+        <item>Denpasar</item>
+        <item>Jakarta I</item>
+        <item>Jakarta II</item>
+        <item>Jakarta III</item>
+        <item>KCK</item>
+        <item>Makassar</item>
+        <item>Malang</item>
+        <item>Manado</item>
+        <item>Medan</item>
+        <item>Padang</item>
+        <item>Pekanbaru</item>
+        <item>Semarang</item>
+        <item>Surabaya</item>
+    </string-array>
+
+    <string-array name="labels_array_kode_uker">
+        <item>Pilih</item>
+        <item>9820</item>
+        <item>9831</item>
+        <item>9833</item>
+        <item>9835</item>
+        <item>9837</item>
+        <item>9841</item>
+        <item>9846</item>
+        <item>9847</item>
+        <item>9881</item>
+        <item>9882</item>
+        <item>9885</item>
+        <item>9890</item>
+        <item>9891</item>
+        <item>9895</item>
+        <item>9896</item>
+        <item>9899</item>
+
+    </string-array>
+
+    <string-array name="labels_array_mesin">
+        <item>Pilih</item>
+        <item>HYOSUNG</item>
+        <item>NCR</item>
+        <item>WINCOR</item>
+    </string-array>
+    <string-array name="labels_array_tipe_mesin">
+        <item>PILIH</item>
+        <item>MONIMAX 5600</item>
+        <item>MONIMAX 9100</item>
+        <item>HYOSUNG 5870</item>
+        <item>HYOSUNG 8600</item>
+        <item>NCR SS22E</item>
+        <item>NCR SS22</item>
+        <item>PROCASH 1500</item>
+        <item>PROCASH 1500XE</item>
+        <item>PROCASH 1500XE DUAL CAM</item>
+        <item>PROCASH 2000</item>
+        <item>PROCASH 2000XE</item>
+        <item>PROCASH 280FL</item>
+        <item>PROCASH 4000</item>
+    </string-array>
+    <string-array name="labels_array_problem">
+        <item>PILIH</item>
+        <item>OFF</item>
+        <item>DF</item>
+        <item>DF CO</item>
+        <item>CO</item>
+        <item>NO TRX</item>
+        <item>CARD READER</item>
+        <item>EPP</item>
+        <item>SOFTWARE</item>
+        <item>VANDALISME</item>
+    </string-array>
+    <string-array name="labels_array_status">
+        <item>ON PROGRES</item>
+        <item>DONE</item>
+        <item>SLM BRI</item>
+        <item>SLM SSI</item>
+        <item>DELETE</item>
+    </string-array>
+
+    <string-array name="labels_array_denom">
+        <item>Pilih</item>
+        <item>100.000</item>
+        <item>50.000</item>
+    </string-array>
+
+    <string-array name="labels_array_pagu">
+        <item>Pilih</item>
+        <item>8.000</item>
+        <item>6.000</item>
+        <item>4.000</item>
+        <item>2.000</item>
+    </string-array>
+
+    <string-array name="labels_array_jarkom">
+        <item>Pilih</item>
+        <item>BRISAT</item>
+        <item>CELLULAR</item>
+        <item>MPLS</item>
+        <item>VSAT</item>
+    </string-array>
+
+    <string-array name="labels_array_db">
+        <item>Pilih</item>
+        <item>DB02</item>
+        <item>DB03</item>
+        <item>DB04</item>
+        <item>DB06</item>
+        <item>DB07</item>
+        <item>DB08</item>
+        <item>DB09</item>
+        <item>DB10</item>
+        <item>DB11</item>
+        <item>DB12</item>
+        <item>DB13</item>
+        <item>DB14</item>
+        <item>DB16</item>
+        <item>DB17</item>
+        <item>PSW01</item>
+        <item>PSW02</item>
+    </string-array>
+
+    <string-array name="labels_array_serviceHour">
+        <item>Pilih</item>
+        <item>24 JAM</item>
+        <item>NON 24 JAM</item>
+    </string-array>
+
+    <string-array name="labels_array_statusAtm">
+        <item>Pilih</item>
+        <item>IN WARRANTY</item>
+        <item>OUT WARRANTY</item>
+    </string-array>
+
+    <string-array name="labels_array_admin">
+        <item>Pilih</item>
+        <item>Done</item>
+        <item>Pending</item>
+    </string-array>
+
+    <string-array name="labels_cctv">
+        <item>Cek CCTV</item>
+        <item>Record</item>
+        <item>No Record</item>
+    </string-array>
+
+    <string-array name="labels_suhu_ruangan">
+        <item>Suhu Ruangan</item>
+        <item>Dingin</item>
+        <item>Tidak Dingin</item>
+    </string-array>
+
+    <string-array name="labels_antiSkiming">
+        <item>Anti Skiming</item>
+        <item>Aktif</item>
+        <item>Tidak Aktif</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_contoh">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
